@@ -1,5 +1,6 @@
 # EpamTask5
-Interest Calculator 
-And 
-Estimation of house construction 
+ 
+loggertask:Estimation of house construction 
+And
+logger-task2:Interest Calculator 
 by using Logger class.
